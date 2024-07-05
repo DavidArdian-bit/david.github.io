@@ -6,3 +6,13 @@
 #project {
     background-color: #a19595;
 }
+#about {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #a19595;
+    overflow: hidden;
+    border-radius: 20px;
+}
+
